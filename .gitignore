@@ -21,3 +21,4 @@ Makefile.local
 sandbox.py
 src/junit-report.xml
 .venv
+GNS3/*
